@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+ <title>Funniest math meme</title>
+    <style>
+        body {
+            font-family: 'Trebuchet MS';
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: darkgray;
+        }
+        img {
+            padding: 10;
+        p {  
+            margin-bottom: 10px;
+        }
+    </style>
+<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQa0KptONwKR8i6DxvqA2VHLI7_uvlTmeY8exiRbxmFDGxNZHEu">
+<img src="https://ia800707.us.archive.org/16/items/Top30FunnyMinionQuotes28MinionMinionsQuotes500x509/Top-30-Funny-Minion-Quotes-28-Minion-Minions-Quotes-500x509.jpg" >
+<img src="https://www.memesmonkey.com/images/memesmonkey/da/da5583f4e5bf8cced14acf6ecfda9486.jpeg"
+</head>
+</html>
